@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T14:46:41.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Lb4JdF9ucF9GZ7Rb6-UK" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T14:47:53.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="yrJgTjVow47d0c1xqWZG" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="4Q9Yo3Cv-MKMnUo7Yz4n-1" value="Doggy" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="1520" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4Q9Yo3Cv-MKMnUo7Yz4n-5" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+        <mxCell id="4Q9Yo3Cv-MKMnUo7Yz4n-5" value="Dog motel" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="800" width="1530" height="120" as="geometry" />
         </mxCell>
       </root>
