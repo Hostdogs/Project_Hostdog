@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T14:42:44.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="umJ9RSi77WCrA1MrJSU_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T14:42:52.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="5d6gYc9wt-JReAM5Jlq1" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,7 @@
         <mxCell id="c8LVkLhTOpS9i5omLPBY-1" value="ควยบาส" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="240" y="40" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E1i-eiNJg2YaHfD6PyEE-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="E1i-eiNJg2YaHfD6PyEE-1" value="ควายบาส&lt;br&gt;ไอเพียวปิดไมค์" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E1i-eiNJg2YaHfD6PyEE-1" value="ควายบาส&lt;br&gt;ไอเพียวปิดไมค์" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="510" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
