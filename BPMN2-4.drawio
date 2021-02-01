@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T14:59:16.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="5q7-YbNeXToSHrGa63Ku" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T15:02:55.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Tre7SVQ7xcwlf38mWfiq" version="14.2.9" type="github">
   <diagram id="IrETMiKT1PBol7SlZVVF" name="Page-1">
-    <mxGraphModel dx="1218" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6" value="Customer" style="swimlane;startSize=20;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-10" width="1480" height="540" as="geometry" />
+          <mxGeometry x="30" y="-10" width="1920" height="540" as="geometry" />
         </mxCell>
         <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6" source="7" target="15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,7 +123,7 @@
         <mxCell id="T-1_7jK3bNMxZLInZrGx-72" value="Receive Host List" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;" parent="6" vertex="1">
           <mxGeometry x="1100" y="25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U3PMsX30JAEfUQWBjq2b-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6" source="U3PMsX30JAEfUQWBjq2b-95" target="U3PMsX30JAEfUQWBjq2b-112">
+        <mxCell id="U3PMsX30JAEfUQWBjq2b-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6" source="U3PMsX30JAEfUQWBjq2b-95" target="U3PMsX30JAEfUQWBjq2b-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3PMsX30JAEfUQWBjq2b-95" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=end;symbol=general;" vertex="1" parent="6">
@@ -146,7 +146,7 @@
             <mxPoint x="1265" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3PMsX30JAEfUQWBjq2b-112" value="C" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="6">
+        <mxCell id="U3PMsX30JAEfUQWBjq2b-112" value="ไม่เอา" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=#FFFFFF;" vertex="1" parent="6">
           <mxGeometry x="1330" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U3PMsX30JAEfUQWBjq2b-113" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="6">
