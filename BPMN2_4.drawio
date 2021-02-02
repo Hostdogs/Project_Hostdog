@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T15:12:44.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="n4fA3_CYoW6rB1Q4Vabx" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T15:14:56.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="h-P-PVEo0wUXg_Bj74FX" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="716" dy="2738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="3305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,17 @@
         <mxCell id="zWBF7Wv0CZKXbvyfvgMt-167" value="Wait for host to confirm" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=timer;" vertex="1" parent="zWBF7Wv0CZKXbvyfvgMt-2">
           <mxGeometry x="1270" y="241.14" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zWBF7Wv0CZKXbvyfvgMt-172" value="Host&amp;nbsp;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=catching;symbol=message;" vertex="1" parent="zWBF7Wv0CZKXbvyfvgMt-2">
+        <mxCell id="zWBF7Wv0CZKXbvyfvgMt-172" value="Host Confirm?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=top;labelBackgroundColor=#ffffff;verticalAlign=bottom;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=catching;symbol=message;labelPosition=center;" vertex="1" parent="zWBF7Wv0CZKXbvyfvgMt-2">
           <mxGeometry x="1450" y="241.14" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zWBF7Wv0CZKXbvyfvgMt-173" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zWBF7Wv0CZKXbvyfvgMt-2" source="zWBF7Wv0CZKXbvyfvgMt-172" target="zWBF7Wv0CZKXbvyfvgMt-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1475" y="440.14" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1475" y="440" />
+              <mxPoint x="700" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zWBF7Wv0CZKXbvyfvgMt-103" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" edge="1" parent="1" target="zWBF7Wv0CZKXbvyfvgMt-107">
           <mxGeometry relative="1" as="geometry">
@@ -499,6 +508,16 @@
         </mxCell>
         <mxCell id="Tl_W29gyMfKL-6Gt1cae-106" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="1">
           <mxGeometry x="610" y="-850" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zWBF7Wv0CZKXbvyfvgMt-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zWBF7Wv0CZKXbvyfvgMt-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="-394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWBF7Wv0CZKXbvyfvgMt-175" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWBF7Wv0CZKXbvyfvgMt-174">
+          <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
