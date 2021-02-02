@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T15:42:25.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="31Xnq-MwsRTQ4Ii7Ps0D" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T15:42:49.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="92F1_aj5JyyE0-hqwhtN" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -584,7 +584,7 @@
         <mxCell id="niJDU-_pUoM_6UWqPv8M-73" value="Dog care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
           <mxGeometry x="2855" y="265" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="niJDU-_pUoM_6UWqPv8M-74" value="Owner resive dog&lt;br&gt;&amp;amp;&lt;br&gt;End services" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
+        <mxCell id="niJDU-_pUoM_6UWqPv8M-74" value="Owner receive dog&lt;br&gt;&amp;amp;&lt;br&gt;End services" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
           <mxGeometry x="2960" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-75" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
