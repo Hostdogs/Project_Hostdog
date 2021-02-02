@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T16:20:43.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="czJhyTFNZDt5u1B8ml_k" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T16:22:03.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="pXJpw7mKYgeSoSiv0Nsb" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,11 +414,10 @@
             <mxPoint x="892" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tl_W29gyMfKL-6Gt1cae-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="Tl_W29gyMfKL-6Gt1cae-1" source="Tl_W29gyMfKL-6Gt1cae-70" target="Tl_W29gyMfKL-6Gt1cae-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tl_W29gyMfKL-6Gt1cae-70" value="Receive Information Form&lt;br&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
-          <mxGeometry x="740" y="75" width="50" height="50" as="geometry" />
+        <mxCell id="Tl_W29gyMfKL-6Gt1cae-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;exitX=1.04;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Tl_W29gyMfKL-6Gt1cae-1" source="niJDU-_pUoM_6UWqPv8M-10" target="Tl_W29gyMfKL-6Gt1cae-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="100" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tl_W29gyMfKL-6Gt1cae-72" value="Fill Host Information" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
           <mxGeometry x="880" y="60" width="120" height="80" as="geometry" />
@@ -435,14 +434,8 @@
         <mxCell id="niJDU-_pUoM_6UWqPv8M-4" value="already have an host profile?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
           <mxGeometry x="444" y="50" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="niJDU-_pUoM_6UWqPv8M-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Tl_W29gyMfKL-6Gt1cae-1" source="niJDU-_pUoM_6UWqPv8M-10" target="Tl_W29gyMfKL-6Gt1cae-70" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="947" y="260" as="sourcePoint" />
-            <mxPoint x="997" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-10" value="sign up" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
-          <mxGeometry x="627" y="90" width="50" height="20" as="geometry" />
+          <mxGeometry x="710" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-15" value="sign in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
           <mxGeometry x="504" y="230" width="50" height="20" as="geometry" />
