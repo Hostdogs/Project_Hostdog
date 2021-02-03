@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T12:32:13.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="weF-l8YOyfMw4HxcjiUG" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T12:35:34.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="ULl0hQj0wtkNqT7WKoPi" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1038" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="2821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,6 +788,9 @@
         </mxCell>
         <mxCell id="zRcpY7Li771tuFU87ufb-18" value="Send service data" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=message;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
           <mxGeometry x="3090" y="210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zRcpY7Li771tuFU87ufb-21" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;" vertex="1" parent="Tl_W29gyMfKL-6Gt1cae-1">
+          <mxGeometry x="3200" y="206" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="unD61fQ7snLegaBzTk5--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="unD61fQ7snLegaBzTk5--13" edge="1">
           <mxGeometry relative="1" as="geometry">
