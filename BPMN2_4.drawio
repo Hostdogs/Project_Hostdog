@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T12:32:01.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="F4wjpjDIabOcX-Xbw0Es" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T12:32:13.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="weF-l8YOyfMw4HxcjiUG" version="14.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1483" dy="3167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,19 +754,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-80" value="Receive payment" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
-          <mxGeometry x="3190" y="193.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="3190" y="194.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-83" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=general;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
-          <mxGeometry x="3360" y="208.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="3360" y="209.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-82" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Tl_W29gyMfKL-6Gt1cae-1" source="niJDU-_pUoM_6UWqPv8M-80" target="niJDU-_pUoM_6UWqPv8M-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2900" y="253.5" as="sourcePoint" />
-            <mxPoint x="3350" y="233.5" as="targetPoint" />
+            <mxPoint x="2900" y="254.5" as="sourcePoint" />
+            <mxPoint x="3350" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="niJDU-_pUoM_6UWqPv8M-84" value="Services complete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Tl_W29gyMfKL-6Gt1cae-1" vertex="1">
-          <mxGeometry x="3330" y="258.5" width="110" height="20" as="geometry" />
+          <mxGeometry x="3330" y="259.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jQ9ltwhg65TSGn1DnRQ2-1" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Tl_W29gyMfKL-6Gt1cae-1" source="niJDU-_pUoM_6UWqPv8M-56" target="Tl_W29gyMfKL-6Gt1cae-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
