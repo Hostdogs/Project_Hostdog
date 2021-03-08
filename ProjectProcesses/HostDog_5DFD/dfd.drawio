@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:18:10.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="jLKoiCjVL3cunlqDYPiY" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:18:35.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="KE--4b2lUMqsoWFQ2QBh" version="14.4.4" type="github" pages="2">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,12 +95,13 @@
         <mxCell id="fAkpZPnZrC9xg-RiNKua-23" value="เจ้าของสุนัข" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
           <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fAkpZPnZrC9xg-RiNKua-24" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.013;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-23" target="fAkpZPnZrC9xg-RiNKua-7">
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-24" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-23" target="fAkpZPnZrC9xg-RiNKua-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="400" as="sourcePoint" />
-            <mxPoint x="230" y="380" as="targetPoint" />
+            <mxPoint x="300" y="432" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="430" />
+              <mxPoint x="290" y="432" />
             </Array>
           </mxGeometry>
         </mxCell>
