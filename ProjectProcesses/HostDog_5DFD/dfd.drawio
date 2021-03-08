@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:19:56.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="sYo0vSOfdQmTd93Ku5od" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:20:41.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="9nDuNSIrlKU7F_O3Wly8" version="14.4.4" type="github" pages="2">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="Page-1">
     <mxGraphModel dx="558" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="frzBfWc1NeOkkW5ecaVl" name="process1">
-    <mxGraphModel dx="656" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-0" />
         <mxCell id="fAkpZPnZrC9xg-RiNKua-1" parent="fAkpZPnZrC9xg-RiNKua-0" />
@@ -113,6 +113,9 @@
               <mxPoint x="70" y="960" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="emyK8XB9NiyNWuX_exJt-1" value="ข้อมูลการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
+          <mxGeometry x="170" y="410" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
