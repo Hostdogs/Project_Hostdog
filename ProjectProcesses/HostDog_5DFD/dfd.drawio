@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:47:53.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="YxdStDm9WL_lb8VWrs1Y" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:49:53.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="_xXEXMw9tbFgEUzpz6dp" version="14.4.4" type="github" pages="4">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="716" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g8jJck4AxCuWUS3RBj0e" name="process4">
-    <mxGraphModel dx="501" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="1307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="esC5z1Ls8RRlJ_xrwlSS-0" />
         <mxCell id="esC5z1Ls8RRlJ_xrwlSS-1" parent="esC5z1Ls8RRlJ_xrwlSS-0" />
@@ -391,20 +391,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJquDLEYF5aPnedc0nUm-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" target="oJquDLEYF5aPnedc0nUm-20">
+        <mxCell id="oJquDLEYF5aPnedc0nUm-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-8" target="oJquDLEYF5aPnedc0nUm-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="960" as="sourcePoint" />
             <mxPoint x="60" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="70" y="960" />
+              <mxPoint x="70" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJquDLEYF5aPnedc0nUm-23" value="ข้อมูลการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
-          <mxGeometry x="170" y="410" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oJquDLEYF5aPnedc0nUm-24" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
-          <mxGeometry x="130" y="935" width="170" height="20" as="geometry" />
+        <mxCell id="oJquDLEYF5aPnedc0nUm-24" value="รายละเอียดผู้รับฝาก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="120" y="650" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
