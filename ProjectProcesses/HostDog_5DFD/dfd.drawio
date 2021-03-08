@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:31:00.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3etP9PwrklnzXGLcEhuS" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:31:49.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="TuIA3LiNK76DW2I6YvXw" version="14.4.4" type="github" pages="4">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
-    <mxGraphModel dx="716" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V1AbKijfYhWUKeCWXBv4-1" value="ผู้ฝาก" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V1AbKijfYhWUKeCWXBv4-2" value="ผู้รับฝาก" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
