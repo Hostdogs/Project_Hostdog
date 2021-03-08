@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:07:30.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.4" etag="1j3OPk4R6oHA6vQrWz7X" type="github"><diagram id="O5m7Imn-kEvuM9Y36wfA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:11:26.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="YIJSKb1_0467Gt4bxuEQ" version="14.4.4" type="github" pages="2">
+  <diagram id="O5m7Imn-kEvuM9Y36wfA" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="frzBfWc1NeOkkW5ecaVl" name="process1">
+    <mxGraphModel dx="385" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-0" />
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-1" parent="fAkpZPnZrC9xg-RiNKua-0" />
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-2" value="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
+          <mxGeometry x="310" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-3" value="สมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-2">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-4" value="1.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
+          <mxGeometry x="310" y="160" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-5" value="แสดงแบบฟอร์มการสมัคร&#xa;สมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-4">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-6" value="1.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
+          <mxGeometry x="310" y="300" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-7" value="กรอกข้อมูลสมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-6">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
