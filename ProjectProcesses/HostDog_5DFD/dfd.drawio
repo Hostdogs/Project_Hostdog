@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:43:52.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="2r-ulDGAmJ3jvMDR-U1D" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:47:53.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="YxdStDm9WL_lb8VWrs1Y" version="14.4.4" type="github" pages="4">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="716" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FbmGt308AN-_cI6TcLLz" name="process2">
-    <mxGraphModel dx="501" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pLPoyXqzVoHlxE_v7KPU-0" />
         <mxCell id="pLPoyXqzVoHlxE_v7KPU-1" parent="pLPoyXqzVoHlxE_v7KPU-0" />
@@ -314,11 +314,98 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="g8jJck4AxCuWUS3RBj0e" name="Page-4">
+  <diagram id="g8jJck4AxCuWUS3RBj0e" name="process4">
     <mxGraphModel dx="501" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="esC5z1Ls8RRlJ_xrwlSS-0" />
         <mxCell id="esC5z1Ls8RRlJ_xrwlSS-1" parent="esC5z1Ls8RRlJ_xrwlSS-0" />
+        <mxCell id="oJquDLEYF5aPnedc0nUm-0" value="4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="310" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-1" value="ค้นหาผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-0">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-25" value="สมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-0">
+          <mxGeometry y="80" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-2" value="4.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="310" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-3" value="แสดงแบบฟอร์มการค้นหา&#xa;ผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-2">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-4" value="4.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="310" y="380" width="160" height="90" as="geometry">
+            <mxRectangle x="310" y="300" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-5" value="กรอกข้อมูลการค้นหาผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-4">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-6" value="4.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="310" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-7" value="ค้นหาผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-6">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-8" value="4.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="310" y="630" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-9" value="แสดงรายละเอียดผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="oJquDLEYF5aPnedc0nUm-8">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-1" target="oJquDLEYF5aPnedc0nUm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-3" target="oJquDLEYF5aPnedc0nUm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-5" target="oJquDLEYF5aPnedc0nUm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-7" target="oJquDLEYF5aPnedc0nUm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="580" as="sourcePoint" />
+            <mxPoint x="450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-20" value="ผู้ฝาก" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-21" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" source="oJquDLEYF5aPnedc0nUm-20" target="oJquDLEYF5aPnedc0nUm-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="432" />
+              <mxPoint x="290" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="esC5z1Ls8RRlJ_xrwlSS-1" target="oJquDLEYF5aPnedc0nUm-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="960" as="sourcePoint" />
+            <mxPoint x="60" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-23" value="ข้อมูลการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="170" y="410" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oJquDLEYF5aPnedc0nUm-24" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="esC5z1Ls8RRlJ_xrwlSS-1">
+          <mxGeometry x="130" y="935" width="170" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
