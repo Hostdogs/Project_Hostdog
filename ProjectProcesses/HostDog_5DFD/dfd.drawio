@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:21:30.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="NXlX8KTNOW4A-G1pZiNg" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:26:36.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="KmA56JTwvXR9clfrDnSY" version="14.4.4" type="github" pages="3">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="Page-1">
     <mxGraphModel dx="558" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="frzBfWc1NeOkkW5ecaVl" name="process1">
-    <mxGraphModel dx="501" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-0" />
         <mxCell id="fAkpZPnZrC9xg-RiNKua-1" parent="fAkpZPnZrC9xg-RiNKua-0" />
@@ -119,6 +119,110 @@
         </mxCell>
         <mxCell id="emyK8XB9NiyNWuX_exJt-2" value="รายละเอียดการสมัครสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
           <mxGeometry x="130" y="935" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FbmGt308AN-_cI6TcLLz" name="process2">
+    <mxGraphModel dx="501" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pLPoyXqzVoHlxE_v7KPU-0" />
+        <mxCell id="pLPoyXqzVoHlxE_v7KPU-1" parent="pLPoyXqzVoHlxE_v7KPU-0" />
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--0" value="2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--1" value="เข้าสู่ระบบ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--0">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--2" value="2.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--3" value="แสดงแบบฟอร์ม&#xa;การเข้าสู่ระบบ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--2">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--4" value="2.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="380" width="160" height="90" as="geometry">
+            <mxRectangle x="310" y="300" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--5" value="กรอกอีเมลและรหัสผ่าน" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--4">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--6" value="2.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--7" value="ยืนยันการเข้าสู่ระบบ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--6">
+          <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--8" value="2.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="630" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--9" value="ตรวจสอบอีเมลและรหัสผ่าน" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--8">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--10" value="2.5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="310" y="770" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--11" value="แสดงผลการเข้าสู่ระบบ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2e1DBKmJDaGiBwMeS1W--10">
+          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--1" target="2e1DBKmJDaGiBwMeS1W--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--3" target="2e1DBKmJDaGiBwMeS1W--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--5" target="2e1DBKmJDaGiBwMeS1W--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--7" target="2e1DBKmJDaGiBwMeS1W--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="580" as="sourcePoint" />
+            <mxPoint x="450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--9" target="2e1DBKmJDaGiBwMeS1W--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--20" value="เจ้าของสุนัข" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--21" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--20" target="2e1DBKmJDaGiBwMeS1W--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="432" />
+              <mxPoint x="290" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="pLPoyXqzVoHlxE_v7KPU-1" source="2e1DBKmJDaGiBwMeS1W--11" target="2e1DBKmJDaGiBwMeS1W--20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="960" as="sourcePoint" />
+            <mxPoint x="60" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--23" value="อีเมลและรหัสผ่าน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="170" y="410" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2e1DBKmJDaGiBwMeS1W--24" value="รายละเอียดการเข้าสู่ระบบ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pLPoyXqzVoHlxE_v7KPU-1">
+          <mxGeometry x="140" y="805" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
