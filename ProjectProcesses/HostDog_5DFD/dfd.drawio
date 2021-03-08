@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T18:15:00.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="dgW55ZspCScuxscYfGMo" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T18:18:10.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="jLKoiCjVL3cunlqDYPiY" version="14.4.4" type="github" pages="2">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,19 +13,19 @@
         <mxCell id="fAkpZPnZrC9xg-RiNKua-0" />
         <mxCell id="fAkpZPnZrC9xg-RiNKua-1" parent="fAkpZPnZrC9xg-RiNKua-0" />
         <mxCell id="fAkpZPnZrC9xg-RiNKua-2" value="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="40" width="160" height="80" as="geometry" />
+          <mxGeometry x="310" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-3" value="สมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-2">
           <mxGeometry y="30" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-4" value="1.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="160" width="160" height="90" as="geometry" />
+          <mxGeometry x="310" y="240" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-5" value="แสดงแบบฟอร์มการสมัคร&#xa;สมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-4">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-6" value="1.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="300" width="160" height="90" as="geometry">
+          <mxGeometry x="310" y="380" width="160" height="90" as="geometry">
             <mxRectangle x="310" y="300" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -33,63 +33,75 @@
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-8" value="1.3" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="430" width="160" height="80" as="geometry" />
+          <mxGeometry x="310" y="510" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-9" value="ตรวจสอบการข้อมูลสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-8">
           <mxGeometry y="30" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-10" value="1.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="550" width="160" height="90" as="geometry" />
+          <mxGeometry x="310" y="630" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-11" value="ยืนยันการสมัครด้วยอีเมล" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-10">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-12" value="1.5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="690" width="160" height="90" as="geometry" />
+          <mxGeometry x="310" y="770" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-13" value="บันทึกการสมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-12">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-14" value="1.6" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
-          <mxGeometry x="310" y="820" width="160" height="90" as="geometry" />
+          <mxGeometry x="310" y="900" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-15" value="แสดงผลการสมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-14">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-3" target="fAkpZPnZrC9xg-RiNKua-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="200" as="sourcePoint" />
-            <mxPoint x="450" y="150" as="targetPoint" />
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-5" target="fAkpZPnZrC9xg-RiNKua-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="300" as="sourcePoint" />
-            <mxPoint x="450" y="250" as="targetPoint" />
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-7" target="fAkpZPnZrC9xg-RiNKua-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="400" as="sourcePoint" />
-            <mxPoint x="450" y="350" as="targetPoint" />
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-9" target="fAkpZPnZrC9xg-RiNKua-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="500" as="sourcePoint" />
-            <mxPoint x="450" y="450" as="targetPoint" />
+            <mxPoint x="400" y="580" as="sourcePoint" />
+            <mxPoint x="450" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-11" target="fAkpZPnZrC9xg-RiNKua-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="700" as="sourcePoint" />
-            <mxPoint x="450" y="650" as="targetPoint" />
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fAkpZPnZrC9xg-RiNKua-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-13" target="fAkpZPnZrC9xg-RiNKua-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="700" as="sourcePoint" />
-            <mxPoint x="450" y="650" as="targetPoint" />
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-23" value="เจ้าของสุนัข" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="fAkpZPnZrC9xg-RiNKua-1">
+          <mxGeometry x="50" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fAkpZPnZrC9xg-RiNKua-24" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.013;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fAkpZPnZrC9xg-RiNKua-1" source="fAkpZPnZrC9xg-RiNKua-23" target="fAkpZPnZrC9xg-RiNKua-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="sourcePoint" />
+            <mxPoint x="230" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
