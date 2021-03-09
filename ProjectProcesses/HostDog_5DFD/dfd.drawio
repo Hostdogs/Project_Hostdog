@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:42:59.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="jiYo1AX-A7Np-jJd5QIi" version="14.4.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:53:18.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="87V8DFUfmwYuwORcocvG" version="14.4.4" type="github" pages="13">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gmjSNCvaZHBrkTGCBHyH-11" value="ข้อมูลสมาชิก" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gmjSNCvaZHBrkTGCBHyH-1">
+        <mxCell id="gmjSNCvaZHBrkTGCBHyH-11" value="ข้อมูลผู้ใช้งาน" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gmjSNCvaZHBrkTGCBHyH-1">
           <mxGeometry x="200" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gmjSNCvaZHBrkTGCBHyH-12" value="" style="endArrow=classic;html=1;" edge="1" parent="gmjSNCvaZHBrkTGCBHyH-1">
@@ -264,7 +264,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oQQ9ufy1hygW6WRwhxGF-0" value="ผู้ตรวจสอบ" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="gmjSNCvaZHBrkTGCBHyH-1">
+        <mxCell id="oQQ9ufy1hygW6WRwhxGF-0" value="ผู้ดูแล" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="gmjSNCvaZHBrkTGCBHyH-1">
           <mxGeometry x="960" y="20" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oQQ9ufy1hygW6WRwhxGF-1" value="" style="endArrow=classic;html=1;entryX=-0.004;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gmjSNCvaZHBrkTGCBHyH-1" target="oQQ9ufy1hygW6WRwhxGF-0">
@@ -279,6 +279,15 @@
         <mxCell id="mw9VUNnqgyYwJY3OmJJ5-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;ข้อมูลการลงทะเบียน&lt;br&gt;เป็นผู้รับฝาก&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oQQ9ufy1hygW6WRwhxGF-1">
           <mxGeometry x="0.4182" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3BpfOtljksjxul3syLL-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="gmjSNCvaZHBrkTGCBHyH-1" target="oQQ9ufy1hygW6WRwhxGF-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="324" as="sourcePoint" />
+            <mxPoint x="939.3200000000002" y="85.96000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="60" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
@@ -615,8 +624,8 @@
             <mxPoint x="10.83" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JQW4mX26_QS_RjBlJ1pp-14" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;ข้อมูลผู้ใช้" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="JpapVHjRnnqEQxLr9bSN-1">
-          <mxGeometry x="340" y="490" width="100" height="30" as="geometry" />
+        <mxCell id="JQW4mX26_QS_RjBlJ1pp-14" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;ข้อมูลผู้ใช้งาน" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="JpapVHjRnnqEQxLr9bSN-1">
+          <mxGeometry x="325" y="490" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1218,7 +1227,7 @@
             <mxPoint x="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hDoBZ3_HyO2HrDzarm1-0" value="ผู้ตรวจสอบ" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="SVfyath5o8N_kU9xz8Oc-1">
+        <mxCell id="4hDoBZ3_HyO2HrDzarm1-0" value="ผู้ดูแล" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="SVfyath5o8N_kU9xz8Oc-1">
           <mxGeometry x="640" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4hDoBZ3_HyO2HrDzarm1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SVfyath5o8N_kU9xz8Oc-1" target="4hDoBZ3_HyO2HrDzarm1-0">
