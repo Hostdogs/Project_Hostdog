@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T09:19:11.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="CXD9ROhSQO37uYzU-WvE" version="14.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-03-09T09:19:18.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3dTaBg2PiZL3rZcPt6e9" version="14.4.5" type="github" pages="13">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1002,7 +1002,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7sq8Zqh4vX7ZL-CTDV0M-20" value="ผู้ใช้งานทั่วไป" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
-          <mxGeometry x="90" y="292" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="332" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pTs1Nb8PQQTOIjIQDed4-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ประวัติการชำระเงิน" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
           <mxGeometry x="660" y="872" width="150" height="30" as="geometry" />
