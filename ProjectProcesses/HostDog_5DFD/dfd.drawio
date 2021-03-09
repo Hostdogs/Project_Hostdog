@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T16:43:56.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="LSlHQYfhgD53_E-UMlOd" version="14.4.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-03-09T16:49:08.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="QkMeypMhI-gnhwAjdbwX" version="14.4.5" type="github" pages="12">
   <diagram name="ContextDiagram V2" id="t8hwh8F3plbCmKXn5Lk4">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -344,7 +344,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DLidQtt993s1Ska8vfhd" name="level0">
-    <mxGraphModel dx="1931" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="3421" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="9A_8ETiAixyMr5YRdV_Q-0" />
         <mxCell id="9A_8ETiAixyMr5YRdV_Q-1" parent="9A_8ETiAixyMr5YRdV_Q-0" />
@@ -862,7 +862,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-JGbBYjdkLv8DS3dFdu-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ข้อมูลผู้รับฝาก" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="9A_8ETiAixyMr5YRdV_Q-1" vertex="1">
+        <mxCell id="c-JGbBYjdkLv8DS3dFdu-2" value="D4&amp;nbsp; &amp;nbsp; ข้อมูลผู้รับฝาก" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="9A_8ETiAixyMr5YRdV_Q-1" vertex="1">
           <mxGeometry x="-160" y="520" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -1419,7 +1419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O_w84E53wj0DwOc1WPPf" name="process6">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="U2cUjku3HCILFNbWFttd-0" />
         <mxCell id="U2cUjku3HCILFNbWFttd-1" parent="U2cUjku3HCILFNbWFttd-0" />
@@ -1526,7 +1526,7 @@
         <mxCell id="r4mbu0SgfHMdnYsDPOwI-1" value="บันทึกคะแนนผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="r4mbu0SgfHMdnYsDPOwI-0" vertex="1">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-tHMITLuK-In85EX5He-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ข้อมูลผู้รับฝาก&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
+        <mxCell id="t-tHMITLuK-In85EX5He-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;D4&amp;nbsp; &amp;nbsp; &amp;nbsp; ข้อมูลผู้รับฝาก&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
           <mxGeometry x="325" y="1060" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t-tHMITLuK-In85EX5He-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="U2cUjku3HCILFNbWFttd-1" source="r4mbu0SgfHMdnYsDPOwI-1" target="t-tHMITLuK-In85EX5He-4" edge="1">
@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uMXGmR4BjEOZttt4Zt60" name="process7">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TMGpo8OqaFI08jTDgh2Z-0" />
         <mxCell id="TMGpo8OqaFI08jTDgh2Z-1" parent="TMGpo8OqaFI08jTDgh2Z-0" />
@@ -1669,7 +1669,7 @@
         <mxCell id="7sq8Zqh4vX7ZL-CTDV0M-20" value="ผู้ใช้งานทั่วไป" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
           <mxGeometry x="70" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HcYrOF011Ez-ZXzDCOe0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TMGpo8OqaFI08jTDgh2Z-1" source="pTs1Nb8PQQTOIjIQDed4-1" target="HcYrOF011Ez-ZXzDCOe0-1">
+        <mxCell id="HcYrOF011Ez-ZXzDCOe0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="TMGpo8OqaFI08jTDgh2Z-1" source="pTs1Nb8PQQTOIjIQDed4-1" target="HcYrOF011Ez-ZXzDCOe0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTs1Nb8PQQTOIjIQDed4-1" value="D7&amp;nbsp; &amp;nbsp; &amp;nbsp;ประวัติการชำระเงิน" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
@@ -1694,7 +1694,7 @@
             <mxPoint x="726" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AC7LfdH-K8UrkpZ0ffao-0" value="บันทึกการชำระเงิน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="2bco-GesvVvo0GZEwBue-1">
+        <mxCell id="AC7LfdH-K8UrkpZ0ffao-0" value="บันทึกการชำระเงิน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="2bco-GesvVvo0GZEwBue-1" connectable="0" vertex="1">
           <mxGeometry x="0.2837" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1702,10 +1702,10 @@
         <mxCell id="2bco-GesvVvo0GZEwBue-0" value="องค์กร" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
           <mxGeometry x="648" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HcYrOF011Ez-ZXzDCOe0-0" value="7.5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="TMGpo8OqaFI08jTDgh2Z-1">
+        <mxCell id="HcYrOF011Ez-ZXzDCOe0-0" value="7.5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="TMGpo8OqaFI08jTDgh2Z-1" vertex="1">
           <mxGeometry x="605" y="310" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HcYrOF011Ez-ZXzDCOe0-1" value="ส่งบันทึกการชำระเงิน" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="HcYrOF011Ez-ZXzDCOe0-0">
+        <mxCell id="HcYrOF011Ez-ZXzDCOe0-1" value="ส่งบันทึกการชำระเงิน" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HcYrOF011Ez-ZXzDCOe0-0" vertex="1">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
