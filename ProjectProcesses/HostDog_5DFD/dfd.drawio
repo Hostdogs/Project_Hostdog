@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T09:25:06.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" etag="mVvxwcuER6aJFBULhd1a" version="14.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-03-09T09:27:05.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" etag="P2GUHkKn26TpIWX5Um1x" version="14.4.5" type="github" pages="13">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1160,7 +1160,7 @@
         </mxCell>
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-28" value="รายงานจากผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="zI4NQIMNIJQeTg-lcyDN-24">
           <mxGeometry x="0.1085" y="1" relative="1" as="geometry">
-            <mxPoint x="32.94" y="-1" as="offset" />
+            <mxPoint x="52.94" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="oH1qJ22LSW8pNRVhZk7p-1" source="hhSEQHSeIq2iK6HXYZdR-0" target="zI4NQIMNIJQeTg-lcyDN-21">
@@ -1168,7 +1168,7 @@
         </mxCell>
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-29" value="รายงานจาก&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ผู้ใช้งานทั่วไป&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="zI4NQIMNIJQeTg-lcyDN-26">
           <mxGeometry x="0.0491" y="3" relative="1" as="geometry">
-            <mxPoint x="-27.06" y="3" as="offset" />
+            <mxPoint x="-37.06" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhSEQHSeIq2iK6HXYZdR-0" value="ผู้ดูแล" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="oH1qJ22LSW8pNRVhZk7p-1">
@@ -1227,7 +1227,7 @@
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-20" value="9.5" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="oH1qJ22LSW8pNRVhZk7p-1">
           <mxGeometry x="750" y="650" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zI4NQIMNIJQeTg-lcyDN-21" value="แสดงรายงานจากผู้ใช้งานทั่วไป" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zI4NQIMNIJQeTg-lcyDN-20">
+        <mxCell id="zI4NQIMNIJQeTg-lcyDN-21" value="แจ้งเตือนผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zI4NQIMNIJQeTg-lcyDN-20">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="oH1qJ22LSW8pNRVhZk7p-1" source="zI4NQIMNIJQeTg-lcyDN-22" target="Tr7ULuzej3zG4acVS04e-0">
@@ -1241,7 +1241,7 @@
         <mxCell id="zI4NQIMNIJQeTg-lcyDN-22" value="9.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="oH1qJ22LSW8pNRVhZk7p-1">
           <mxGeometry x="120" y="650" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zI4NQIMNIJQeTg-lcyDN-23" value="แสดงรายงานจากผู้รับฝาก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zI4NQIMNIJQeTg-lcyDN-22">
+        <mxCell id="zI4NQIMNIJQeTg-lcyDN-23" value="แจ้งเตือนผู้ใช้งานทั่วไป" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zI4NQIMNIJQeTg-lcyDN-22">
           <mxGeometry y="30" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
