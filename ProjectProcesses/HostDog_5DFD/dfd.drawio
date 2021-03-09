@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T08:35:13.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pKpiXyxtlqDz7Kz59Vxn" version="14.4.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-03-09T08:36:26.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ElfYarq9pzvnRjutg1XM" version="14.4.5" type="github" pages="15">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gti8BYg3ucWkCXGcq9CO-14" value="1.4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="gti8BYg3ucWkCXGcq9CO-1" vertex="1">
-          <mxGeometry x="310" y="880" width="160" height="90" as="geometry" />
+          <mxGeometry x="310" y="740" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gti8BYg3ucWkCXGcq9CO-15" value="แสดงผลการสมัครสมาชิก" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="gti8BYg3ucWkCXGcq9CO-14" vertex="1">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
@@ -521,15 +521,15 @@
             <mxPoint x="450" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gti8BYg3ucWkCXGcq9CO-22" value="ผู้ฝาก" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="gti8BYg3ucWkCXGcq9CO-1" vertex="1">
-          <mxGeometry x="50" y="120" width="100" height="100" as="geometry" />
+        <mxCell id="gti8BYg3ucWkCXGcq9CO-22" value="ผู้ใช้งานทั่วไป" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="gti8BYg3ucWkCXGcq9CO-1" vertex="1">
+          <mxGeometry x="90" y="120" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gti8BYg3ucWkCXGcq9CO-23" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gti8BYg3ucWkCXGcq9CO-1" source="gti8BYg3ucWkCXGcq9CO-22" target="gti8BYg3ucWkCXGcq9CO-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="400" as="sourcePoint" />
             <mxPoint x="300" y="432" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="125" y="432" />
+              <mxPoint x="165" y="432" />
               <mxPoint x="290" y="432" />
             </Array>
           </mxGeometry>
@@ -544,7 +544,7 @@
             <mxPoint x="220" y="570" as="sourcePoint" />
             <mxPoint x="60" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="69" y="940" />
+              <mxPoint x="109" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
