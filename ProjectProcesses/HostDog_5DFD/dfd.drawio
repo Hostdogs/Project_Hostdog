@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T09:08:43.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="2oHMwOdcAsayOXIDOAXA" version="14.4.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-03-09T09:11:03.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="yh59SO8X_aeqkZrLd2E6" version="14.4.5" type="github" pages="15">
   <diagram id="O5m7Imn-kEvuM9Y36wfA" name="ContextDiagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -783,7 +783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JxEcP0XX5m0sPdlv64Nf" name="process3">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yMvmDkq9ofPwHUFQc5lE-0" />
         <mxCell id="yMvmDkq9ofPwHUFQc5lE-1" parent="yMvmDkq9ofPwHUFQc5lE-0" />
@@ -931,7 +931,7 @@
             <mxPoint x="480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QAVM6trYeAkvuEjkNN9b-3" value="รายละเอียดการค้นหาผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oJquDLEYF5aPnedc0nUm-16" connectable="0" vertex="1">
+        <mxCell id="QAVM6trYeAkvuEjkNN9b-3" value="ข้อมูลการค้นหาผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oJquDLEYF5aPnedc0nUm-16" connectable="0" vertex="1">
           <mxGeometry x="-0.3778" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="12" as="offset" />
           </mxGeometry>
@@ -942,7 +942,7 @@
             <mxPoint x="480" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ee-SdpcN8H6hNjmZTXTX-0" value="รายละเอียดผู้รับฝากที่พร้อมให้บริการ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oJquDLEYF5aPnedc0nUm-17" connectable="0" vertex="1">
+        <mxCell id="ee-SdpcN8H6hNjmZTXTX-0" value="ข้อมูลผู้รับฝากที่พร้อมให้บริการ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oJquDLEYF5aPnedc0nUm-17" connectable="0" vertex="1">
           <mxGeometry x="-0.2" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="10" as="offset" />
           </mxGeometry>
@@ -1072,12 +1072,6 @@
       <root>
         <mxCell id="U2cUjku3HCILFNbWFttd-0" />
         <mxCell id="U2cUjku3HCILFNbWFttd-1" parent="U2cUjku3HCILFNbWFttd-0" />
-        <mxCell id="djobZy1fqBRoiYXk4cpW-2" value="6.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
-          <mxGeometry x="310" y="130" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="djobZy1fqBRoiYXk4cpW-3" value="แสดงแบบฟอร์ม&#xa;การเลือกบริการ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="djobZy1fqBRoiYXk4cpW-2" vertex="1">
-          <mxGeometry y="30" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="djobZy1fqBRoiYXk4cpW-4" value="6.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
           <mxGeometry x="310" y="280" width="160" height="90" as="geometry">
             <mxRectangle x="310" y="300" width="50" height="30" as="alternateBounds" />
@@ -1151,46 +1145,14 @@
         </mxCell>
         <mxCell id="qT9WhgLNL6oc3TcBQsWp-3" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;ข้อมูลการเลือกบริการ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qT9WhgLNL6oc3TcBQsWp-1" connectable="0" vertex="1">
           <mxGeometry x="0.3913" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oExnsG1wBGpIXD155_3K-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="U2cUjku3HCILFNbWFttd-1" source="djobZy1fqBRoiYXk4cpW-17" target="djobZy1fqBRoiYXk4cpW-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="110" />
-              <mxPoint x="390" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oExnsG1wBGpIXD155_3K-1" value="คำขอเลือกบริการกับผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oExnsG1wBGpIXD155_3K-0" connectable="0" vertex="1">
-          <mxGeometry x="-0.1321" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-32" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="djobZy1fqBRoiYXk4cpW-17" value="ผู้ใช้งานทั่วไป" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
-          <mxGeometry x="50" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aEuKO5O_z8x9gai6Jv-I-0" value="6. เลือกบริการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
           <mxGeometry x="40" y="60" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DJ5Og9OZHZNbHg_oYlsh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="U2cUjku3HCILFNbWFttd-1" source="1onr6iEFVA6RuVToFrU1-0" target="djobZy1fqBRoiYXk4cpW-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1onr6iEFVA6RuVToFrU1-0" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;แบบฟอร์มการเลือกบริการ" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
-          <mxGeometry x="600" y="160" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DJ5Og9OZHZNbHg_oYlsh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="U2cUjku3HCILFNbWFttd-1" source="djobZy1fqBRoiYXk4cpW-3" target="djobZy1fqBRoiYXk4cpW-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="180" />
-              <mxPoint x="240" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DJ5Og9OZHZNbHg_oYlsh-2" value="รายละเอียดการบริการ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DJ5Og9OZHZNbHg_oYlsh-1" connectable="0" vertex="1">
-          <mxGeometry x="-0.2634" y="3" relative="1" as="geometry">
-            <mxPoint x="-34.12" y="-3.06" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6zDkXT1Yc2IaD1GWjxfj-0" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ประวัติการเลือกบริการ" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
           <mxGeometry x="640" y="655" width="170" height="30" as="geometry" />
@@ -1200,7 +1162,7 @@
         </mxCell>
         <mxCell id="6zDkXT1Yc2IaD1GWjxfj-3" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;รายละเอียดการเลือกบริการ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6zDkXT1Yc2IaD1GWjxfj-1" connectable="0" vertex="1">
           <mxGeometry x="-0.6557" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6zDkXT1Yc2IaD1GWjxfj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="U2cUjku3HCILFNbWFttd-1" source="djobZy1fqBRoiYXk4cpW-9" target="6zDkXT1Yc2IaD1GWjxfj-0" edge="1">
