@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T17:18:58.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CmR0Oj05Lkw6_o99m4E0" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-20T17:19:49.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hFHtt6sah3yh7R87jBCg" version="14.4.9" type="github" pages="3">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,10 +330,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2rXCR8b4nmBVMp84sB63" name="CD-Login">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kfWoRPcMvtJoPvEGtfzC-0" />
         <mxCell id="kfWoRPcMvtJoPvEGtfzC-1" parent="kfWoRPcMvtJoPvEGtfzC-0" />
+        <mxCell id="gEOvWEnlqOa-AiD608XF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kfWoRPcMvtJoPvEGtfzC-1" source="gEOvWEnlqOa-AiD608XF-1" target="gEOvWEnlqOa-AiD608XF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gEOvWEnlqOa-AiD608XF-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Customer&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="kfWoRPcMvtJoPvEGtfzC-1">
+          <mxGeometry x="310" y="20" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gEOvWEnlqOa-AiD608XF-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kfWoRPcMvtJoPvEGtfzC-1">
+          <mxGeometry x="820" y="40" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
