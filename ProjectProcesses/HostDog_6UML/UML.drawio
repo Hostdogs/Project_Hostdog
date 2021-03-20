@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T16:55:13.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="NBtzSoZKQ2p6kdaBL9T6" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:59:01.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cWDc8Df_acMesU3RzAkf" version="14.4.9" type="github" pages="2">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -281,10 +281,11 @@
         <mxCell id="hu-85MAL2ENkbZeGFaKE-0" value="Email System" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="cA1usiHI4Ry-v-ok0yh2-1" vertex="1">
           <mxGeometry x="1080" y="252.5" width="130" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="hu-85MAL2ENkbZeGFaKE-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.026;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.015;exitY=0.535;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" source="Qlz9cl2_w5BcEz7_zVPJ-0" target="Qlz9cl2_w5BcEz7_zVPJ-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="hu-85MAL2ENkbZeGFaKE-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2//Make register&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.026;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.015;exitY=0.535;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" source="Qlz9cl2_w5BcEz7_zVPJ-0" target="Qlz9cl2_w5BcEz7_zVPJ-1" edge="1">
+          <mxGeometry x="0.2015" y="29" width="160" relative="1" as="geometry">
             <mxPoint x="550" y="330" as="sourcePoint" />
             <mxPoint x="610" y="304.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hu-85MAL2ENkbZeGFaKE-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.031;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.001;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" source="Qlz9cl2_w5BcEz7_zVPJ-1" target="hu-85MAL2ENkbZeGFaKE-0" edge="1">
