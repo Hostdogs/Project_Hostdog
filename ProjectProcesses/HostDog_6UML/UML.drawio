@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T16:59:01.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cWDc8Df_acMesU3RzAkf" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-20T16:59:40.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lH32hzXuv6IUSgVz4UKZ" version="14.4.9" type="github" pages="2">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -288,10 +288,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hu-85MAL2ENkbZeGFaKE-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.031;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.001;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" source="Qlz9cl2_w5BcEz7_zVPJ-1" target="hu-85MAL2ENkbZeGFaKE-0" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="hu-85MAL2ENkbZeGFaKE-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3// Confirm email&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.031;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.001;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" source="Qlz9cl2_w5BcEz7_zVPJ-1" target="hu-85MAL2ENkbZeGFaKE-0" edge="1">
+          <mxGeometry x="-0.0306" y="25" width="160" relative="1" as="geometry">
             <mxPoint x="836" y="357.5" as="sourcePoint" />
             <mxPoint x="996" y="357.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hu-85MAL2ENkbZeGFaKE-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.029;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" parent="cA1usiHI4Ry-v-ok0yh2-1" target="Qlz9cl2_w5BcEz7_zVPJ-0" edge="1">
