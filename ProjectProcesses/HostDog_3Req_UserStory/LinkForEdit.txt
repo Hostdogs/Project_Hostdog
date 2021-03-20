@@ -1,6 +1,2 @@
-User Story
-- https://drive.google.com/file/d/1uKMqfDyYKBBONbga7dBiSWQbuIWa4AT9/view
-
-
 Requirement
 - https://docs.google.com/spreadsheets/d/1oGzEGNFBKgGz7P5vdp_7raxReyOr2dKFef9dQwA2kSk/edit?usp=sharing
