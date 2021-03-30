@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T14:53:47.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cGZ_nbXIpZtclRuxfDTZ" version="14.5.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-03-30T14:55:41.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="TrI5xyk34CD8pWGn6bDz" version="14.5.3" type="github" pages="9">
   <diagram name="ContextDiagram V2" id="t8hwh8F3plbCmKXn5Lk4">
     <mxGraphModel dx="1656" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1573,6 +1573,12 @@
         </mxCell>
         <mxCell id="OJ6MCe3TFEuc1gh8XlQ2-0" value="Hostdog - DFD Level 1 - Process 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="oH1qJ22LSW8pNRVhZk7p-1" vertex="1">
           <mxGeometry x="80" y="40" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sFKyDFh6WaRcoP9TDUaZ-0" value="&amp;nbsp;D4&amp;nbsp; &amp;nbsp;ข้อมูลผู้รับฝาก" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="oH1qJ22LSW8pNRVhZk7p-1">
+          <mxGeometry x="350" y="35" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sFKyDFh6WaRcoP9TDUaZ-1" value="&amp;nbsp;D4&amp;nbsp; &amp;nbsp;ข้อมูลผู้ฝาก" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="oH1qJ22LSW8pNRVhZk7p-1">
+          <mxGeometry x="570" y="35" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
