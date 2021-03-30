@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T13:44:29.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DLhO0LsFw6BtVUJH5y3X" version="14.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-03-30T13:51:22.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LdhFIG4AnDf1WtWTZ_yf" version="14.5.3" type="github" pages="10">
   <diagram name="ContextDiagram V2" id="t8hwh8F3plbCmKXn5Lk4">
-    <mxGraphModel dx="1656" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2245" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gmjSNCvaZHBrkTGCBHyH-0" />
         <mxCell id="gmjSNCvaZHBrkTGCBHyH-1" parent="gmjSNCvaZHBrkTGCBHyH-0" />
@@ -1113,12 +1113,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KWEEKfmG_bE-ej3HmOvo" name="process5">
-    <mxGraphModel dx="971" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3QWlzXrFfL8tTj5AN-8l-0" />
         <mxCell id="3QWlzXrFfL8tTj5AN-8l-1" parent="3QWlzXrFfL8tTj5AN-8l-0" />
         <mxCell id="WHYKahnTicLhl7j8voLV-0" value="5.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
-          <mxGeometry x="360" y="130" width="140" height="90" as="geometry" />
+          <mxGeometry x="240" y="130" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WHYKahnTicLhl7j8voLV-1" value="แสดงข้อความ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="WHYKahnTicLhl7j8voLV-0" vertex="1">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
@@ -1126,77 +1126,81 @@
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="VOzDeTPEgK6Z1M2UL1N2-0" target="VOzDeTPEgK6Z1M2UL1N2-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="485" />
+              <mxPoint x="80" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-12" value="ข้อความจากผู้ใช้งานทั่วไป" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VOzDeTPEgK6Z1M2UL1N2-11" connectable="0" vertex="1">
           <mxGeometry x="-0.0212" y="2" relative="1" as="geometry">
-            <mxPoint x="78" y="10.48" as="offset" />
+            <mxPoint x="-2" y="-76" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-0" value="ผู้ใช้งานทั่วไป" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
-          <mxGeometry x="60" y="135" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JBxTGlXnQw2sc6xb0VZP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="VOzDeTPEgK6Z1M2UL1N2-1" target="WHYKahnTicLhl7j8voLV-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="40" y="135" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-1" value="&amp;nbsp;D5&amp;nbsp; &amp;nbsp; &amp;nbsp;ประวัติการแชท" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
-          <mxGeometry x="365" y="300" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VOzDeTPEgK6Z1M2UL1N2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.005;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="WHYKahnTicLhl7j8voLV-1" target="VOzDeTPEgK6Z1M2UL1N2-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="359" y="175" />
-            </Array>
-            <mxPoint x="115" y="188" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VOzDeTPEgK6Z1M2UL1N2-6" value="ข้อความจากผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VOzDeTPEgK6Z1M2UL1N2-5" connectable="0" vertex="1">
-          <mxGeometry x="0.2348" y="4" relative="1" as="geometry">
-            <mxPoint x="17" y="-19.009999999999998" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JBxTGlXnQw2sc6xb0VZP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="VOzDeTPEgK6Z1M2UL1N2-8" target="VOzDeTPEgK6Z1M2UL1N2-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="349" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-8" value="5.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
-          <mxGeometry x="360" y="440" width="140" height="90" as="geometry" />
+          <mxGeometry x="240" y="440" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VOzDeTPEgK6Z1M2UL1N2-9" value="บันทึกข้อความ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="VOzDeTPEgK6Z1M2UL1N2-8" vertex="1">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBxTGlXnQw2sc6xb0VZP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="JBxTGlXnQw2sc6xb0VZP-0" target="VOzDeTPEgK6Z1M2UL1N2-9" edge="1">
+        <mxCell id="JBxTGlXnQw2sc6xb0VZP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="JBxTGlXnQw2sc6xb0VZP-0" target="O3YReOEYEMmPAlac04NS-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="738" y="485" />
+              <mxPoint x="758" y="485" />
             </Array>
+            <mxPoint x="650" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBxTGlXnQw2sc6xb0VZP-7" value="ข้อความจากผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JBxTGlXnQw2sc6xb0VZP-6" connectable="0" vertex="1">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="-87.52" y="12.02" as="offset" />
+            <mxPoint y="-93.5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JBxTGlXnQw2sc6xb0VZP-0" value="ผู้รับฝาก" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
-          <mxGeometry x="690" y="127.5" width="95" height="95" as="geometry" />
+          <mxGeometry x="710" y="127.5" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="JBxTGlXnQw2sc6xb0VZP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="WHYKahnTicLhl7j8voLV-0" target="JBxTGlXnQw2sc6xb0VZP-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JBxTGlXnQw2sc6xb0VZP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="3QWlzXrFfL8tTj5AN-8l-1" source="O3YReOEYEMmPAlac04NS-3" target="JBxTGlXnQw2sc6xb0VZP-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="175" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JBxTGlXnQw2sc6xb0VZP-5" value="ข้อความจากผู้ใช้งานทั่วไป" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JBxTGlXnQw2sc6xb0VZP-4" connectable="0" vertex="1">
           <mxGeometry x="-0.1556" y="4" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="7" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUZLqRQfz_ldSWKPh33g-0" value="Hostdog - DFD Level 1 - Process 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="3QWlzXrFfL8tTj5AN-8l-1" vertex="1">
           <mxGeometry x="40" y="40" width="200" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-2" value="5.1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="3QWlzXrFfL8tTj5AN-8l-1">
+          <mxGeometry x="420" y="130" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-3" value="แสดงข้อความ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="O3YReOEYEMmPAlac04NS-2">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-4" value="5.2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="3QWlzXrFfL8tTj5AN-8l-1">
+          <mxGeometry x="440" y="440" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-5" value="บันทึกข้อความ" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="O3YReOEYEMmPAlac04NS-4">
+          <mxGeometry y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="3QWlzXrFfL8tTj5AN-8l-1" source="WHYKahnTicLhl7j8voLV-1" target="VOzDeTPEgK6Z1M2UL1N2-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3YReOEYEMmPAlac04NS-7" value="ข้อความจากผู้รับฝาก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O3YReOEYEMmPAlac04NS-6">
+          <mxGeometry x="-0.2742" y="4" relative="1" as="geometry">
+            <mxPoint x="-16" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="O_w84E53wj0DwOc1WPPf" name="process6">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="U2cUjku3HCILFNbWFttd-0" />
         <mxCell id="U2cUjku3HCILFNbWFttd-1" parent="U2cUjku3HCILFNbWFttd-0" />
@@ -1295,7 +1299,7 @@
         <mxCell id="dC50z9-Pnq2aBkUxWYt6-0" value="Hostdog - DFD Level 1 - Process 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="U2cUjku3HCILFNbWFttd-1" vertex="1">
           <mxGeometry x="40" y="40" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MOfoUYO6QOaeuiUR6zv_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="U2cUjku3HCILFNbWFttd-1" source="7STjfaAX0fKIV-J-m2Md-1" target="kplfIHS7Zj5u5t1rQ_hE-0">
+        <mxCell id="MOfoUYO6QOaeuiUR6zv_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="U2cUjku3HCILFNbWFttd-1" source="7STjfaAX0fKIV-J-m2Md-1" target="kplfIHS7Zj5u5t1rQ_hE-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="160" />
