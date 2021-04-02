@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T19:47:15.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="N3Tknr9untWe-Ps8sMKx" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-02T19:58:33.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nIvLa6pSOZQiQe7cSsGW" version="14.5.3" type="github" pages="4">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -469,7 +469,7 @@
             <mxPoint x="680" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uopXJLp7DwHgjF2LpnKw-11" value="3//Set Profile and Dog profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uopXJLp7DwHgjF2LpnKw-8">
+        <mxCell id="uopXJLp7DwHgjF2LpnKw-11" value="3//Set account info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uopXJLp7DwHgjF2LpnKw-8">
           <mxGeometry x="0.3928" y="1" relative="1" as="geometry">
             <mxPoint x="4.09" y="-20.88" as="offset" />
           </mxGeometry>
