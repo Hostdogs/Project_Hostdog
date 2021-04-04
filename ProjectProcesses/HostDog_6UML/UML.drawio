@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T15:27:56.662Z" agent="5.0 (X11)" etag="DrGH2c2wEkjnRIk1VZy2" version="14.5.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-04T15:29:14.759Z" agent="5.0 (X11)" etag="oQf_Fr751xRG1ZvdTyCf" version="14.5.7" type="github" pages="6">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="3472" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -682,8 +682,8 @@
         <mxCell id="ydPxxpwSL4ZpIYPouSBU-0" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
           <mxGeometry x="730" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DAursJ5XDTezFSuC7vDr-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Basic flow:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.CustomerหรือHostเปิดเข้าหน้าแชท&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.&lt;/span&gt;&lt;span&gt;&lt;span&gt;CustomerหรือHostส่งข้อความหากัน&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
-          <mxGeometry x="330" y="40" width="250" height="80" as="geometry" />
+        <mxCell id="DAursJ5XDTezFSuC7vDr-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Basic flow:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.CustomerหรือHostเปิดเข้าหน้าแชท&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.&lt;/span&gt;&lt;span&gt;&lt;span&gt;CustomerหรือHostส่งข้อความหากัน&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span&gt;3.แสดงข้อความที่ถูกส่งให้ผู้รับ&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
+          <mxGeometry x="340" y="100" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o7qF8-Tlj2N1-SXZglYR-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.052;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="a8FcZotd6fyG5liWxDEd-1" source="aQ28CzWAL5RG2hDCMwU6-0" target="2L-AAZE84IQl0Bqznzjh-0">
           <mxGeometry width="160" relative="1" as="geometry">
