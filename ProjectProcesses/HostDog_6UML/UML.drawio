@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T15:32:34.545Z" agent="5.0 (X11)" etag="RrjSKiK0gqTrBknRh5sR" version="14.5.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-04T16:11:07.317Z" agent="5.0 (X11)" etag="H78XBPgXxipuXE78xdNt" version="14.5.7" type="github" pages="7">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="1240" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -657,7 +657,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a3xrGH7WO9S35NLZKaeg" name="CLB-Chat">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="a8FcZotd6fyG5liWxDEd-0" />
         <mxCell id="a8FcZotd6fyG5liWxDEd-1" parent="a8FcZotd6fyG5liWxDEd-0" />
@@ -711,6 +711,9 @@
       <root>
         <mxCell id="VFwSsQlb4uS-V3wkPfPh-0" />
         <mxCell id="VFwSsQlb4uS-V3wkPfPh-1" parent="VFwSsQlb4uS-V3wkPfPh-0" />
+        <mxCell id="Txqo4U0bvUmce9TwAszV-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Customer&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" vertex="1" parent="VFwSsQlb4uS-V3wkPfPh-1">
+          <mxGeometry x="120" y="200" width="60" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
