@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T15:11:05.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="baJ4iHRfxBPf-jr8rHmA" version="14.5.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-04T15:17:23.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Kl-dBPQc9RaPA91xYw0u" version="14.5.7" type="github" pages="6">
   <diagram id="Mexyh-QVfdH1IOvwsXVK" name="UseCaseDiagram">
     <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -657,18 +657,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a3xrGH7WO9S35NLZKaeg" name="CLB-Chat">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="a8FcZotd6fyG5liWxDEd-0" />
         <mxCell id="a8FcZotd6fyG5liWxDEd-1" parent="a8FcZotd6fyG5liWxDEd-0" />
         <mxCell id="aQ28CzWAL5RG2hDCMwU6-0" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
-          <mxGeometry x="130" y="250" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQ28CzWAL5RG2hDCMwU6-1" value="Host" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
-          <mxGeometry x="130" y="410" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQ28CzWAL5RG2hDCMwU6-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
-          <mxGeometry x="130" y="570" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ylu2VgtQg5ZidDmq996U-0" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
+          <mxGeometry x="430" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2L-AAZE84IQl0Bqznzjh-0" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
+          <mxGeometry x="280" y="330" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2L-AAZE84IQl0Bqznzjh-1" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="a8FcZotd6fyG5liWxDEd-1">
+          <mxGeometry x="540" y="330" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
