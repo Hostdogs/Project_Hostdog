@@ -10,3 +10,4 @@ django-rest-knox==4.1.0
 cryptography==3.4.7
 black==20.8b1
 mysqlclient==2.0.3
+whitenoise==5.2.0
