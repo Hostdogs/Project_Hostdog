@@ -11,7 +11,8 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 
 from pathlib import Path
-import dj_database_url
+import django_heroku
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -50,7 +51,6 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
-    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
 
 ROOT_URLCONF = "backend.urls"
@@ -87,10 +87,6 @@ DATABASES = {
         "PORT": "",
     }
 }
-
-DATABASES["default"] = dj_database_url.config(
-    default="postgres://okrjlcxozdcrcy:3b6c0cec1d6e331efc680c935a5b0c8b4fbb9251031b8d71615181e529505a8e@ec2-54-205-183-19.compute-1.amazonaws.com:5432/d2la56g41g8ie8"
-)
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
@@ -137,3 +133,5 @@ REST_FRAMEWORK = {
         "knox.auth.TokenAuthentication",
     ]
 }
+
+django_heroku.settings(locals())
