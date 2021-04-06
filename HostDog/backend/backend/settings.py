@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 
 from pathlib import Path
+import dj_database_url
 import django_heroku
 
 
@@ -27,7 +28,7 @@ SECRET_KEY = "7e$i#-m)=nw0-+w5m3k!-=!t2r-=!k5x*gnss*skb0-bacfn2u"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['hostdog.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ["hostdog.herokuapp.com", "localhost"]
 
 
 # Application definition
@@ -87,6 +88,10 @@ DATABASES = {
         "PORT": "",
     }
 }
+
+DATABASES["default"] = dj_database_url.config(
+    default="postgres://kpykxhsdbidvrd:485ca1d4f482263c5e757a0442d0f8c382e1e7eaede7565e9ebbbc55752ee3ef@ec2-54-160-7-200.compute-1.amazonaws.com:5432/d383r55vjgtko3"
+)
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
