@@ -1,43 +1,46 @@
-import { render } from "@testing-library/react";
-import React from "react";
+import React, { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import {
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink,
+  UncontrolledDropdown,
+  DropdownToggle,
+  DropdownMenu,
+  DropdownItem,
+  NavbarText,
+  Button,
+} from "reactstrap";
 
-export default function Navbar() {
+const Example = (props) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggle = () => setIsOpen(!isOpen);
+
   return (
-    <nav
-      class="navbar is-warning"
-      role="navigation"
-      aria-label="main navigation"
-    >
-      <div class="navbar-brand">
-        <a class="navbar-item" href="https://bulma.io">
-          <img
-            src="https://bulma.io/images/bulma-logo.png"
-            width="112"
-            height="28"
-          />
-        </a>
-
-        <button id="navbarBurger" class="navbar-burger"  data-target="navMenuDocumentation" >
-            <span></span>
-            <span></span>
-            <span></span>
-        </button>
-      </div>
-
-      <div id="navbarBasicExample" className="navbar-menu">
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <div class="buttons">
-              <a class="button is-white">
-                <strong>Sign up</strong>
-              </a>
-              <a class="button is-warning">
-                <strong>Log in</strong>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </nav>
+    <div>
+      <Navbar color="warning" light expand="md">
+        <NavbarBrand href="/">
+          <strong>HOSTDOG</strong>
+        </NavbarBrand>
+        <NavbarToggler onClick={toggle} />
+        <Collapse isOpen={isOpen} navbar>
+          <Nav className="mr-auto" navbar>
+            <NavItem>
+              <Button style={{ backgroundColor: "#ffffff", color: "black" }}>Sign up</Button>
+            </NavItem>
+            <NavItem>
+              <Button style={{ backgroundColor: "#844d35", color: "white" }}>Log in</Button>
+            </NavItem>
+          </Nav>
+        </Collapse>
+      </Navbar>
+    </div>
   );
-}
+};
+
+export default Example;

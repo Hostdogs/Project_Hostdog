@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar";
+import NavbarV2 from "./components/Navbar/NavbarV2";
 import TopPageContent from "./components/HomePage/TopPageContent";
 import DownPageContent from "./components/HomePage/DownPageContent";
 import Footer from "./components/HomePage/Footer";
@@ -10,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar />
+        <NavbarV2 />
         <TopPageContent />
         <DownPageContent />
         <Footer />
