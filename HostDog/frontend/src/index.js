@@ -5,8 +5,9 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import LoginModal from './components/LoginForm/LoginModal'
 import Tab from './components/LoginForm/LoginTab'
+import NavbarIsAuth from './components/Navbar/NavbarIsAuth';
 
 
 
 
-ReactDOM.render(<LoginModal />, document.getElementById('root'));
+ReactDOM.render(<NavbarIsAuth />, document.getElementById('root'));
