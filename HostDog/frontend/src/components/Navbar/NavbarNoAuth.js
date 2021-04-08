@@ -15,6 +15,8 @@ import {
   Button
 } from 'reactstrap';
 
+import {Link} from "react-router-dom";
+
 const NavbarNoAuth = (props) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -52,7 +54,9 @@ const NavbarNoAuth = (props) => {
             </UncontrolledDropdown>
           </Nav>
           <div>
+            <Link to="/signup">
             <Button>Sign up</Button>{' '}
+            </Link>
             <Button>Log in</Button>{' '}
           </div>
         </Collapse>
