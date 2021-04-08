@@ -1,21 +1,15 @@
-import "./App.css";
-import NavbarV2 from "./components/Navbar/NavbarV2";
-import TopPageContent from "./components/HomePage/TopPageContent";
-import DownPageContent from "./components/HomePage/DownPageContent";
-import Footer from "./components/HomePage/Footer";
-import { Component } from "react";
+import React from 'react'
+import NavbarNoAuth from './components/Navbar/NavbarNoAuth'
+import Content from './components/HomePage/Content'
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <NavbarV2 />
-        <TopPageContent />
-        <DownPageContent />
-        <Footer />
-      </div>
-    );
-  }
+
+function App() {
+  return (
+    <div className="App">
+      <NavbarNoAuth />
+      <Content />
+    </div>
+  );
 }
 
 export default App;
