@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T15:19:55.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="J95nLiMMFTtsLXKeciWQ" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T15:26:28.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="nQHowKVJwTC2746ar99I" version="14.6.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,13 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="50" y="590" as="sourcePoint" />
             <mxPoint x="130" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohXcxpOozCTFB-AiFhN6-21" value="create Notification&lt;br&gt;for late service" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" target="vX45WFJF0L9HwvAfx8vY-3">
+          <mxGeometry x="-0.0734" width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="770" as="sourcePoint" />
+            <mxPoint x="130" y="770" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vX45WFJF0L9HwvAfx8vY-2" value="Payment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
@@ -201,6 +208,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="200" y="910" as="sourcePoint" />
             <mxPoint x="280" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohXcxpOozCTFB-AiFhN6-22" value="Notification" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.492;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vX45WFJF0L9HwvAfx8vY-3" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="430" y="870" as="sourcePoint" />
+            <mxPoint x="510" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
